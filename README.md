@@ -1,10 +1,8 @@
-# <img src="android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" alt="icon" width=30> Tizeno
+# <img src="android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" alt="icon" width=30> Flutter Note Taking App
 
-Tizeno is a beautiful open-source notes app for Android. It is built with Dart on top of Google's Flutter Framework.
 
-![Tizeno UI Mockup](demo/Tizeno_Mockup.jpg)
-
-Tizeno helps one create quick notes, photo notes and more. One can change the color of the notes, mark them as starred or archived, create photo notes and save them locally, storing everything on a SQLite database.
+Flutter Note Taking App helps one create quick notes, photo notes and more. One can change the color of the notes, mark them as starred or archived, create photo notes and save them locally, storing everything on a SQLite database.
+This app includes to add and edit and delete daily basic notes.
 
 ## List of Contents
 
